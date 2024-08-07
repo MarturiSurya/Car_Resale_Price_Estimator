@@ -1,4 +1,4 @@
-# Car Resale Price Analysis and Predictor Web App
+# Car Resale Price Analysis and Predictor WebApp
 
 Welcome to the Car Resale Price Analysis and Predictor Web App! This application is designed to provide insights into the factors influencing car resale prices and offers a prediction feature to estimate the resale value of a car based on various attributes.
 
